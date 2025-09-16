@@ -43,6 +43,8 @@ SQL (Data extraction & queries)
 Power BI (Visualization & storytelling)
 
 Excel / CSV (Raw dataset handling)
+
+
 Why This Project?
 
 Ever wondered how ride-hailing platforms optimize their services? This project simulates real-world OLA data to derive insights that help in improving customer experience, reducing cancellations, and boosting revenue.
